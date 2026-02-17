@@ -1,0 +1,23 @@
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Build folders
+target/
+bin/
+out/
+build/
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Build folders
+target/
+bin/
+out/
+build/
+dist/
+dist/
+
+
