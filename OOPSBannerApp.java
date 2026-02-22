@@ -1,11 +1,11 @@
-class OOPSBannerApp {
-void main(String[] args) {
-        System.out.println(" ***    ***    *****    ***** ");
-        System.out.println("** **  ** **   **  **  **  ");
-        System.out.println("** **  ** **   **  **  **  ");
-        System.out.println("** **  ** **   *****    ***** ");
-        System.out.println("** **  ** **   **           **    ");
-        System.out.println("** **  ** **   **           **    ");
-        System.out.println(" ***    ***    **      ******    ");
+class OOPSBannerApp{
+void  main(){
+        System.out.println(String.join("", " ***     ***    *****    ***** "));
+        System.out.println(String.join("", "** **   ** **   **  **   **  **"));
+        System.out.println(String.join("", "**  ** **  **   **  **   **  **"));
+        System.out.println(String.join("", "**   ***   **   *****    ***** "));
+        System.out.println(String.join("", "**    *    **   **       **    "));
+        System.out.println(String.join("", "**         **   **       **    "));
+        System.out.println(String.join("", "**         **   **       **    "));
     }
 }
